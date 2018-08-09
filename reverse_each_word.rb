@@ -6,3 +6,5 @@ def reverse_each_word(phrase)
   }
   puts result
 end
+
+reverse_each_word('Hello World! How Are You?')
