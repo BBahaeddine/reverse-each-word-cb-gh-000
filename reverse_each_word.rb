@@ -7,4 +7,4 @@ def reverse_each_word(phrase)
   return result
 end
 
-puts reverse_each_word('Hello World! How Are You?')
+# puts reverse_each_word('Hello World! How Are You?')
