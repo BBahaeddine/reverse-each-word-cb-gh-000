@@ -1,6 +1,6 @@
 def reverse_each_word(phrase)
   array = phrase.split(' ')
-  return array
+  return array[0].reverse()
   # result = ""
   # array.each{|string|
   #   result << string.split("").reverse()
